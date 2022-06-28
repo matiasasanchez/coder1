@@ -111,6 +111,10 @@ p, footer {
 video {
   margin: auto; }
 
+  .carousel-item {
+    padding: 150px;
+  }
+
 ul {
   text-align: end;
   font-size: 20px;
