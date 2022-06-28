@@ -169,7 +169,7 @@ a {
 }
 
 a:hover {
-  background-color: rgb(47, 149, 120);
+  background-color: rgb(226, 85, 122);
   transform: scale(1.1);
   transition: ease-in-out 0.1s;
   background-image: linear-gradient(rgb(72, 105, 72), rgb(69, 130, 154));
